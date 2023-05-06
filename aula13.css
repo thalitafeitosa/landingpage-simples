@@ -1,0 +1,16 @@
+
+header  {
+    background-color: rgb(251, 26, 15);
+}
+
+header > div > div > div > div > div > div > h1 {
+    color: rgb(255, 255, 255);
+}
+
+header > div > div > div > div > div > div > h1 > p {
+    color: rgb(255, 255, 255);
+}
+
+.paragrafo {
+    color: aliceblue;
+}
